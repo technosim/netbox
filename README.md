@@ -43,11 +43,11 @@ This repository is not intended for commercial redistribution.
 ## Repository Structure
 
 ### `images/`
-Contains reference images of device types used for documentation.
+Contains reference images of device types used for documentation. Sourced and/or modified from public online material.
 
-- Images are **not imported into NetBox**
-- Used for GitHub Pages or Markdown documentation
-- Sourced from public online material
+- hp-elite-desk-4g-mini.png, modified from https://github.com/netbox-community/devicetype-library/blob/master/elevation-images/HP/hp-elitedesk-800-g5-mini.front.png
+- 4cabling-brushpanel-1ru.png, modified from https://cdn11.bigcommerce.com/s-wy5fyeqebr/images/stencil/1280x1280/products/177/516/RAK213-00__95416.1705320559.jpg?c=1
+
 
 ---
 
