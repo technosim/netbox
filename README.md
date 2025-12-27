@@ -56,11 +56,16 @@ Defines NetBox **device type templates**, grouped by vendor.
 
 #### `device_types/HPE Aruba/`
 
-hpe-aruba_devices.yaml
+hpe-aruba-device_types.yaml
 - Aruba2530-8G-PoEP, sourced from https://gitlab.software.geant.org/goat/netbox-device-type/-/blob/master/device-types/HPE/Aruba-2530-8G-PoEP.yaml?ref_type=heads
 
 #### `device_types/FortiNet/`
 
-fortinet_devices.yaml
+fortinet-device_types.yaml
 - FortiGate-30E
+
+#### `device_types/4Cabling/`
+
+4cabling-device_types.yaml
+- 19" Brush Panel 1RU, image from https://cdn11.bigcommerce.com/s-wy5fyeqebr/images/stencil/1280x1280/products/177/516/RAK213-00__95416.1705320559.jpg?c=1
 
