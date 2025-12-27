@@ -3,6 +3,11 @@
 This repository contains a curated collection of **NetBox YAML templates** for device types, devices, and supporting objects.  
 It is intended for **learning, reference, and personal infrastructure documentation**.
 
+##The collection is made up of: 
+- Items I have made personally because I couldn't find them elsewhere
+- Items found elsewhere and modified for to fit my use
+- Items found elsewhere and bundled into here for my own convenience, without modification. Credit is in YAML comments and below.
+
 ---
 
 ## Overview
@@ -51,7 +56,7 @@ Defines NetBox **device type templates**, grouped by vendor.
 #### `device_types/HPE Aruba/`
 
 hpe-aruba_devices.yaml
-- Aruba2530-8G-PoEP
+- Aruba2530-8G-PoEP, sourced from https://gitlab.software.geant.org/goat/netbox-device-type/-/blob/master/device-types/HPE/Aruba-2530-8G-PoEP.yaml?ref_type=heads
 
 #### `device_types/FortiNet/`
 
