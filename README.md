@@ -8,6 +8,7 @@ It is intended for **learning, reference, and personal infrastructure documentat
 - Items found elsewhere and modified for to fit my use
 - Items found elsewhere and bundled into here for my own convenience, without modification. Credit is in YAML comments and below.
 
+For a far more comprehensive and universal list see https://github.com/netbox-community/devicetype-library/
 ---
 
 ## Overview
