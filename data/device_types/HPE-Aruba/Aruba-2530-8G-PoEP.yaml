@@ -1,4 +1,5 @@
 ---
+# Sourced from https://gitlab.software.geant.org/goat/netbox-device-type/-/blob/master/device-types/HPE/Aruba-2530-8G-PoEP.yaml?ref_type=heads
 manufacturer: HPE
 model: Aruba 2530-8G-PoE+
 slug: hpe-aruba-2530-8g-poep
