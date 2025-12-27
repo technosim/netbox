@@ -3,9 +3,9 @@
 This repository contains a curated collection of **NetBox YAML templates** for device types, devices, and supporting objects.  
 It is intended for **learning, reference, and personal infrastructure documentation**.
 
-##The collection is made up of: 
+## The collection is made up of: 
 - Items I have made personally because I couldn't find them elsewhere
-- Items found elsewhere and modified for to fit my use
+- Items found elsewhere and modified to fit my use
 - Items found elsewhere and bundled into here for my own convenience, without modification. Credit is in YAML comments and below.
 
 For a far more comprehensive and universal list see https://github.com/netbox-community/devicetype-library/
