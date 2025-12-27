@@ -51,10 +51,10 @@ Defines NetBox **device type templates**, grouped by vendor.
 #### `device_types/HPE Aruba/`
 
 hpe-aruba_devices.yaml
-	- Aruba2530-8G-PoEP
+- Aruba2530-8G-PoEP
 
 #### `device_types/FortiNet/`
 
 fortinet_devices.yaml
-	- FortiGate-30E
+- FortiGate-30E
 
