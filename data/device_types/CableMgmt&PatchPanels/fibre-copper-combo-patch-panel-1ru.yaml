@@ -1,0 +1,15 @@
+---
+# image sourced and modified from Tripp Lite Patch Panels Visio Stencils https://tripplite.eaton.com/support/visio-stencils
+manufacturer: 4Cabling
+model: Fibre Copper Combo Patch 1RU
+slug: fibre-copper-comb-patch-1ru
+description: ''
+default_platform: null
+part_number: fibre-copper-comb-patch-1ru
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

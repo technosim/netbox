@@ -64,8 +64,13 @@ hpe-aruba-device_types.yaml
 fortinet-device_types.yaml
 - FortiGate-30E
 
-#### `device_types/4Cabling/`
+#### `device_types/CableMgmt&PatchPanels/`
 
-4cabling-device_types.yaml
+brush-panel.yaml
 - 19" Brush Panel 1RU, image from https://cdn11.bigcommerce.com/s-wy5fyeqebr/images/stencil/1280x1280/products/177/516/RAK213-00__95416.1705320559.jpg?c=1
 
+fibre-copper-combo-patch-panel-1ru.yaml
+- Image sourced and modified from Tripp Lite Patch Panels Visio Stencils https://tripplite.eaton.com/support/visio-
+
+leviton-1ru-cable-management.yaml
+- Image sourced and modified from Leviton Visio diagrams https://espreview.leviton.com/support/resources/product-
